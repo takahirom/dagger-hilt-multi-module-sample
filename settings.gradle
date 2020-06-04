@@ -1,0 +1,3 @@
+include ':feature'
+include ':app'
+rootProject.name = "dagger-hilt-multimodule-sample"
